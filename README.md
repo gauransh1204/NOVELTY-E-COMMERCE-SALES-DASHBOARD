@@ -24,21 +24,13 @@ The owner of **NOVELTY E-COMMERCE SALES DASHBOARD** wants to create an interacti
 
 ## Process
 
-* Created an interactive Power BI dashboard to track and analyze online sales data.
+* Created an [interactive Power BI dashboard](https://github.com/gauransh1204/NOVELTY-E-COMMERCE-SALES-DASHBOARD/blob/main/dashboard.png) to track and analyze online sales data.
 * Implemented complex parameters, drill-downs, and customizations using filters and slicers.
 * Established relationships between tables and performed calculations to enable user-controlled parameters for visualization.
 * Utilized a range of customized visualization components, including bar charts, pie charts, donut charts, scatter charts, lines, maps, and slicers.
 
-## Dashboard (Alt Text)
-
-Picture of the Power BI Dashboard, depicting:
-
-* Overall sales by state
-* Top 3 customers by spending
-* Product categories by popularity
-* Payment methods used by customers
-* Profits by month
-* Profitable sub-categories of products
+## Dashboard
+![Screenshot of Interactive Dashboard](dashboard.png)
 
 ## Project Insight
 
