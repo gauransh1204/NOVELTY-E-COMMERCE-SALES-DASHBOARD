@@ -10,7 +10,8 @@ The owner of **NOVELTY E-COMMERCE SALES DASHBOARD** wants to create an interacti
 
 ## Dataset Used
 
-* **Orders** (with details of transactions)
+- [**Orders**](https://github.com/gauransh1204/NOVELTY-E-COMMERCE-SALES-DASHBOARD/blob/main/Orders.csv)
+- [**Details**](https://github.com/gauransh1204/NOVELTY-E-COMMERCE-SALES-DASHBOARD/blob/main/Details.csv)
 
 ## Key Performance Indicators (Questions)
 
